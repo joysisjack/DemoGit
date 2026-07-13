@@ -24,12 +24,6 @@
     <title>Document</title>
 </head>
 <body>
-    <form method="get">
-        <label for="username">Username</label>
-        <input type="text" name="username">
-        <label for="password">Password</label>
-        <input type="password" name= "password">
-        <input type="submit">
-    </form>
+    <h1>HEllo World</h1>
 </body>
 </html>
